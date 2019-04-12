@@ -1,0 +1,2 @@
+# Map-routing-
+used concepts: Algorithms, Data structure used programming language: c#(windows form) this application use the Dijkstra algorithm to find the shortest path to achieve some point on the map. its first read files and put the result in files and textboxs, the format of the files are attached with project . (final delivery cases), there is 3 cases sample,medium and large, every case have to read 2 files (map and queries) , the output should matches the out putfile
